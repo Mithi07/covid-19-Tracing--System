@@ -1,0 +1,5 @@
+Toast,2021-01-11  10:46,Tesco,Normal
+Brooke,2021-01-11  11:05,Domino's,Normal
+Sykkuno,2021-01-11  11:46,H & M,Normal
+Valkyrae,2021-01-11  13:46,Domino's,Normal
+Ludwig,2021-01-11  15:35,Walmart,Normal

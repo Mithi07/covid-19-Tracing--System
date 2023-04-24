@@ -1,0 +1,30 @@
+1   2020-01-07	 16:09 	 Jeremiah     Tesco
+2   2020-01-07	 13:10 	 Hunt         Isetan
+3   2020-01-07	 15:11 	 Earnest      7Eleven
+4   2020-01-08  16:10   Lowe         Tesco
+5   2020-01-08	 16:10 	 Betsy        Isetan
+6   2020-01-08	 17:11	 Shaw         7Eleven
+7   2020-01-08	 17:16 	 Robyn        Isetan
+8   2020-01-08	 18:09 	 Nabila       H & M
+9   2020-01-08	 18:10 	 Anna         H & M
+10  2020-01-08	 20:02 	 Morales      Cmart
+11  2020-01-09	 16:10 	 Brett        Cmart
+12  2020-01-09	 18:45	 Prince       Ecoshop
+13  2020-01-09	 19:08	 Donnie       H&M
+14  2020-01-09	 20:10 	 Robertson    Checkers
+15  2020-01-09	 21:10 	 Leigh        EcoShop
+16  2020-01-09	 21:45 	 Houston      Checkers
+17  2020-01-10	 13:10 	 Leona        EcoShop
+18  2020-01-10  16:10   Mann         EcoShop
+19  2020-01-10	 18:10 	 Inez         Checkers
+20  2020-01-10	 19:10 	 Moran        Checkers
+21  2020-01-10	 20:10 	 Akash        Parkson
+22  2020-01-10	 20:46 	 Farhan       Parkson
+23  2020-01-10	 22:04 	 Hridoy       Parkson
+24  2020-01-11	 13:10 	 Samia        Parkson
+25  2020-01-11	 16:06 	 Kaniz        Checkers
+26  2020-01-11	 18:05 	 Prova        Isetan
+27  2020-01-11	 17:03 	 Fatema       7Eleven
+28  2020-01-11	 20:10 	 Shuborna     7Eleven
+29  2020-01-11	 21:11 	 Reza         Checkers
+30  2020-01-11	 21:45 	 Mithun       Tesco

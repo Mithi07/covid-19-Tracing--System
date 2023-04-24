@@ -1,0 +1,4 @@
+Tesco,5123456987,Jack,Normal
+Walmart,2455476965,Dream,Normal
+Domino's,3423423534,Pewds,Normal
+H & M,7865582343,Charlie,Normal

@@ -1,0 +1,9 @@
+Member 1: 1191302723   Maria Mithi
+Member 2: 1201300880   Hii Jyn Tong
+
+TASK DISTRIBUTION
+1. Customer – Hii Jyn Tong & 100%
+2. Shop - Maria Mithi & 50%  
+	- Hii Jyn Tong & 50%
+3. Admin – Maria Mithi & 100%
+4. Javadoc – Hii Jyn Tong & 100%
